@@ -1,0 +1,6 @@
+@dotnetEncryptionSample_HostAddress = http://localhost:5211
+
+GET {{dotnetEncryptionSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
